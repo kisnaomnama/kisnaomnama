@@ -1,6 +1,6 @@
 #                                                               👨‍💻 About Me 🕉️
 
-Hey there! 👋 I'm Krishna Surkehti, a software developer on a mission to harness the power of code to create innovative solutions and build a better digital world. With a passion for problem-solving and a knack for crafting clean, efficient code, I thrive on challenges that push the boundaries of what's possible.
+Hey there! 👋 I'm Krishna Surkheti, a software developer on a mission to harness the power of code to create innovative solutions and build a better digital world. With a passion for problem-solving and a knack for crafting clean, efficient code, I thrive on challenges that push the boundaries of what's possible.
 
 My journey into the world of software development began at Berkely City Community College when I enrolled in one C++ class that planted the seed of me becoming a software engineer. Since then, I've been hooked. Finally able to get hands-on experience in full stack development and fulfill the dream of becoming a Software engineer through the amazing App Academy. I love diving into new technologies and frameworks to expand my toolkit.
 
